@@ -73,13 +73,12 @@ El notebook está estructurado de forma secuencial. Puedes ejecutarlo completo d
 
 ## Fuente de datos
 
-- Dataset: [Peru Student Enrollment Data 2023 — Kaggle](https://www.kaggle.com/)
-- Fuente original: MINEDU ESCALE (Estadística de la Calidad Educativa del Ministerio de Educación del Perú)
+- Dataset: Peru Student Enrollment Data 2023 — Kaggle
+- Fuente original: MINEDU ESCALE (Estadística de la Calidad Educativa 
+  del Ministerio de Educación del Perú)
 - Año de referencia: 2023
 
-## Autor
+Este proyecto utiliza un dataset de acceso público disponible en Kaggle.
+Los datos pertenecen a sus respectivos autores y fuentes originales.
+El análisis, los gráficos y el informe son de elaboración propia.
 
-Jean Paul Moncada Nateros  
-Carrera: Diseño y Desarrollo de Software  
-Certus Instituto Superior Tecnológico  
-Lima, Perú — Junio 2026
